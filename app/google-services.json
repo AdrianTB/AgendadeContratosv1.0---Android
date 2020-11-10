@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418439633117",
+    "firebase_url": "https://agendacontratosv10.firebaseio.com",
+    "project_id": "agendacontratosv10",
+    "storage_bucket": "agendacontratosv10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418439633117:android:b8626ce50695d930502334",
+        "android_client_info": {
+          "package_name": "com.example.agendadecontratosv10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418439633117-9b77klu7aocbj7v16r83f3vgnul1uno0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agendadecontratosv10",
+            "certificate_hash": "124b254a4aea549d804c0a6cb35f1c3e5c8d879d"
+          }
+        },
+        {
+          "client_id": "418439633117-dv312ksgr65mt4hi9ct7v5pivpp400oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwg2t4WGqjlfdCOJPhJWc7qZoFs83jo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418439633117-dv312ksgr65mt4hi9ct7v5pivpp400oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
